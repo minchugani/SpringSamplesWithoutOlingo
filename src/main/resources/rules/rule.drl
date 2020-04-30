@@ -1,0 +1,9 @@
+
+package com.springsamples.entities
+import com.springsamples.entities.rule
+rule "Test"
+  when
+  $rule: rule(key1=="CNY")
+  then
+  System.out.println("Invalid");
+end
