@@ -1,2 +1,0 @@
-# SpringSamplesWithoutOlingo
-SpringSamplesWithoutOlingo
